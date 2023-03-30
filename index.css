@@ -1,0 +1,85 @@
+form {
+  color: white;
+  text-align: center;
+  width: 1200px;
+  height: 100%;
+  margin: auto;
+}
+.formContent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+form h2 {
+  margin: 20px 15px;
+  text-align: center;
+}
+form fieldset {
+  border: 3px solid white;
+}
+
+#paragraph {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: #00008b;
+  margin: 10px 15px;
+}
+
+button {
+  color: white;
+  background-color: #00008b;
+  width: 210px;
+  height: 60px;
+  cursor: pointer;
+  margin: 0 241px;
+  border-radius: 20px 5%;
+}
+
+input[type="submit"] {
+  cursor: pointer;
+  width: 180px;
+  height: 60px;
+  margin: 15px 20px;
+  border-radius: 15px 50px 30px 5px;
+  border: 1px solid black;
+}
+input[type="radio"] {
+  margin: 10px 15px;
+}
+
+article {
+  background-color: #2b51a7;
+  color: white;
+  width: 1000px;
+  margin: 15px 60px;
+}
+article p {
+  margin: 20px 15px;
+}
+article h3 {
+  text-align: center;
+  color: black;
+}
+
+article cite {
+  margin: 20px 15px;
+}
+article a {
+  margin-top: 25px;
+}
+.access {
+  color: white;
+  margin-top: 30px;
+}
+#informacaoAdicional {
+  width: 200px;
+  height: 90px;
+  resize: none;
+}
+.lead {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
